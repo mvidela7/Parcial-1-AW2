@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "año": 2024,
+        "precio": 28500000,
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "año": 2023,
+        "precio": 32000000,
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "marca": "Ford",
+        "modelo": "Focus",
+        "año": 2022,
+        "precio": 24500000,
+        "stock": 4
+    },
+    {
+        "id": 4,
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "año": 2023,
+        "precio": 26000000,
+        "stock": 2
+    },
+    {
+        "id": 5,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "año": 2024,
+        "precio": 35000000,
+        "stock": 2
+    },
+    {
+        "id": 6,
+        "marca": "Fiat",
+        "modelo": "Cronos",
+        "año": 2024,
+        "precio": 22000000,
+        "stock": 5
+    },
+    {
+        "id": 7,
+        "marca": "Renault",
+        "modelo": "Sandero",
+        "año": 2023,
+        "precio": 21500000,
+        "stock": 3
+    },
+    {
+        "id": 8,
+        "marca": "Peugeot",
+        "modelo": "208",
+        "año": 2024,
+        "precio": 24000000,
+        "stock": 4
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "parcial-1---aw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch servidor.mjs",
+    "start": "node servidor.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvidela7/Parcial-1---AW2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mvidela7/Parcial-1---AW2/issues"
+  },
+  "homepage": "https://github.com/mvidela7/Parcial-1---AW2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
